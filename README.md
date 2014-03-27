@@ -1,5 +1,5 @@
-px.theme
-========
+12x12px
+---
 
 This will be free
 
