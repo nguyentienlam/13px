@@ -1,4 +1,4 @@
-12x12px
+13px
 ---
 
 This will be free
